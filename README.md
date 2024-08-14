@@ -5,7 +5,7 @@ well know [#100DaysOfCode](https://www.100daysofcode.com) challenge, in my case 
 
 I'm learning Python as a part of my getting to know DevOps stuff journey. First step was to 
 turn an old macbook into an Ubuntu Server for further learning experiments. Now I am all about 
-Ansible and the Python.
+Ansible and Python.
 
 Not going to tweet about my daily coding as the challenge requires, but I do share my DevOps 
 learning journey on a [freshly baked blog of mine](https://charamza.substack.com). This journey 
