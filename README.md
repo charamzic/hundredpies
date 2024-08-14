@@ -9,7 +9,7 @@ Ansible and the Python.
 
 Not going to tweet about my daily coding as the challenge requires, but I do share my DevOps 
 learning journey on a [freshly baked blog of mine](https://charamza.substack.com). This journey 
-or a path, let's say, already included completely redoing the way I take notes and learn.
+or a path, let's say, already included completely redoing the way I take notes and the way I learn.
 
 So what I will use to code my way through this challenge? Well, Vim, or NeoVim, of course. Because I want 
 to learn those as well :P
