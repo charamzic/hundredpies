@@ -17,17 +17,11 @@ to learn those as well :P
 
 ## Day 7 - the first time of creating something
 
-So on the day 7, I went on learning how to fetch some data and do a simple cli game. And it's a well known 
-hangman game. It prompts you for the length of a word you would like to guess, fetches the word from 
-https://random-word-api.herokuapp.com/home and you can start guessing. I added the binary `/day007/hangman`, 
-so one should be able to download and run it on mac or linux os without python installed, if you wish to give 
-it a try.
-
 On Day 7, I focused on learning how to fetch data and create a simple CLI game: the classic Hangman. 
 The game prompts you to enter the length of a word you'd like to guess, fetches the word from 
 [Random Word API](https://random-word-api.herokuapp.com/home), and then you can start guessing. 
 
-I've included the binary `/day007/hangman`, so you can download and run it on macOS or Linux without needing 
+I've included the binary [/day007/hangman](day007/hangman), so you can download and run it on macOS or Linux without needing 
 Python installed. Feel free to give it a try!
 
 ![hangman](images/hangman.png)
