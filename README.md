@@ -15,7 +15,7 @@ So what I will use to code my way through this challenge? Well, Vim, or NeoVim, 
 to learn those as well :P
 
 
-## Day 7, the first time of creating something
+## Day 7 - the first time of creating something
 
 So on the day 7, I went on learning how to fetch some data and do a simple cli game. And it's a well known 
 hangman game. It prompts you for the length of a word you would like to guess, fetches the word from 
