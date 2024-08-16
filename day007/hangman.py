@@ -20,7 +20,6 @@ for i in range(len(word)):
 game_over = False
 correct_letters = []
 used_letters = []
-rounds = 0
 mistakes = 0
 
 while not game_over:
@@ -50,8 +49,6 @@ while not game_over:
         print("\033[92mCorrect guess, go on!\033[0m")
 
     print("\n" + display.upper())
-
-    rounds += 1
 
     if "_" not in display:
         game_over = True
