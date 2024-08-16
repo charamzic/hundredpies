@@ -59,6 +59,3 @@ while not game_over:
 
     print(stages.HANGMANPICS[mistakes])
     print(f"Used letters: {used_letters}\n")
-
-# Let's see if ANSI works and \033[92mthis text is green.\033[0m Is it?
-# Why the \033[91mHELL!\033[0m is my terminal messes up longer lines of text?
