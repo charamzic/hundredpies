@@ -7,13 +7,6 @@ HARD = 5
 number_to_guess = randint(1, 50)
 
 
-def set_rounds(chosen_level):
-    if chosen_level == 'e':
-        return EASY
-    elif chosen_level == 'h':
-        return HARD
-
-
 def play():
     level = input(
         "Type 'e' for easy difficulty or 'h' for hard difficulty: ")
