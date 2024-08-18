@@ -1,10 +1,10 @@
 import os
-import random
+from random import randint
 
 EASY = 10
 HARD = 5
 
-number_to_guess = random.randint(1, 50)
+number_to_guess = randint(1, 50)
 
 
 def set_rounds(chosen_level):
