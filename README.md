@@ -15,7 +15,7 @@ So what I will use to code my way through this challenge? Well, Vim, or NeoVim, 
 to learn those as well :P
 
 
-## Day 7 - the first time of creating something
+## Day 7 - Hangman Game
 
 On Day 7, I focused on learning how to fetch data and create a simple CLI game: the classic Hangman. 
 The game prompts you to enter the length of a word you'd like to guess, fetches the word from 
@@ -25,3 +25,10 @@ I've included the binary [/day007/hangman](day007/hangman), so you can download 
 Python installed. Feel free to give it a try!
 
 ![hangman](images/hangman.png)
+
+## Day 17 - An API Call - Mythology Quiz game
+
+This was fun :) Although the Data class is a bit messed up in my opinion. Creating and object and then calling it's 
+function to actually populate the object's attribute is probably not the best approach. Well, see you in following days.
+
+![quiz](images/quiz.png)
