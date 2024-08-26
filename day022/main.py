@@ -1,8 +1,9 @@
-from turtle import Turtle, Screen
-from paddle import Paddle
-from ball import Ball
-from scoreboard import Scoreboard
 import time
+from turtle import Screen
+
+from ball import Ball
+from paddle import Paddle
+from scoreboard import Scoreboard
 
 screen = Screen()
 screen.bgcolor("black")
@@ -32,7 +33,12 @@ while game_is_on:
         ball.bounce_y()
 
     # Paddle collision
-    if ball.distance(r_paddle) < 50 and ball.xcor() > 320 or ball.distance(l_paddle) < 50 and ball.xcor() < -320:
+    if (
+        ball.distance(r_paddle) < 50
+        and ball.xcor() > 320
+        or ball.distance(l_paddle) < 50
+        and ball.xcor() < -320
+    ):
         ball.bounce_x()
 
     # Misses
