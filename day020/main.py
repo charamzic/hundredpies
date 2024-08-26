@@ -1,4 +1,4 @@
-from turtle import Screen, Turtle
+from turtle import Screen
 from cobra import Cobra
 import time
 
@@ -23,8 +23,6 @@ game_is_on = True
 while game_is_on:
     screen.update()
     time.sleep(0.1)
-
     cobra.move()
-
 
 screen.exitonclick()
