@@ -42,4 +42,6 @@ game I did - a Snake game. Simple, but still enjoyable as in good old Nokia time
 
 ## Day 28 - Pomodoro counter which I might actually use
 
+I do not like tkinter, but this is quite usefull sript, isn't it?
+
 ![pomodoro](images/pomodoro.gif)
