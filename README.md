@@ -45,3 +45,9 @@ game I did - a Snake game. Simple, but still enjoyable as in good old Nokia time
 I do not like tkinter, but this is quite usefull script, isn't it?
 
 ![pomodoro](images/pomodoro.gif)
+
+## Day 29 - Local password manager
+
+Very very simple, without salting and hashing.
+
+![password manager](images/pass.png)
