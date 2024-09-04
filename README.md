@@ -39,3 +39,7 @@ Leaving cli games for a while. Now I'm gonna focus on data manipulation and stuf
 game I did - a Snake game. Simple, but still enjoyable as in good old Nokia times.
 
 ![snake](images/snake-z.png)
+
+## Day 28 - Pomodoro counter which I might actually use
+
+![pomodoro](images/pomodoro.gif)
